@@ -1,0 +1,10 @@
+{
+  "name": "joseph_akayesi_get_busy_programme",
+  "version": "1.0.0",
+  "description": "Task One of the NodeJS Africa Get Busy Programme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Akayesi",
+  "license": "ISC"
+}
